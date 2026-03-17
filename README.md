@@ -1,7 +1,7 @@
 # Liftoff
 [ [Start Coding](https://liftoffcoding.top/editor) | [Progress](#progress) ]
 ## About
-Liftoff is a advanced Julian's editor alternative akin to Scratch and can run anywhere; even a Wii. Whether you have little to no coding experience, or you are just super lazy, anyone can make anything* in Liftoff.
+Liftoff is a advanced Julian's editor alternative akin to Scratch and can run anywhere; even an old Windows 7 PC (With Supermium ofc). Whether you have little to no coding experience, or you are just super lazy, anyone can make anything* in Liftoff.
 
 ## Progress
 - [x] Create basic editor
