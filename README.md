@@ -1,3 +1,5 @@
+# THIS IS A OLD VERSION OF LIFTOFF. ITS RECCOMENDED TO USE THE NEW ONE COMING SOON.
+
 # Liftoff
 [ [Start Coding](https://liftoffcoding.top/editor) | [Progress](#progress) ]
 ## About
